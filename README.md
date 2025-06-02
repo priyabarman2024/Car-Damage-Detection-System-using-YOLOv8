@@ -8,10 +8,10 @@ It can identify and localize different types of damages like dents and scratches
 
 ## 🎯 Features
 
--  Trained YOLOv8s model with 5 custom classes
--  Interactive Streamlit web interface
--  Upload and detect car part damage in real-time
--  Detection summary with class names and confidence scores
+- 🧠 Trained YOLOv8s model with 5 custom classes
+- 🌐 Interactive Streamlit web interface
+- 📦 Upload and detect car part damage in real-time
+- 📊 Detection summary with class names and confidence scores
 
 ---
 
@@ -41,6 +41,16 @@ runs/detect/train4/weights/best.pt
 
 ---
 
+## 📂 Dataset
+
+- **Name:** Coco Car Damage Detection Dataset  
+- **Source:** [Kaggle - lplenka/coco-car-damage-detection-dataset](https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset)
+- **Format:** COCO JSON annotations
+- **Usage:** Converted to YOLO format using `coco2yolo.py`
+
+---
+
+## 🖥️ Live App Demo
 
 ### 🔎 Input Image
 ![Input](assets/input.jpg)
