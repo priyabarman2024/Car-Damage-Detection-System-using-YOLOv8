@@ -1,0 +1,12 @@
+path: C:\Users\toffe\OneDrive\Documents\KUSH_DINE\New folder\CODE\image_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: headlamp
+  1: front_bumper
+  2: hood
+  3: door
+  4: rear_bumper
