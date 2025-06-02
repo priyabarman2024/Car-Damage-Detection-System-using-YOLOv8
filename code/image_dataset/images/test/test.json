@@ -1,0 +1,165 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "file_name": "11.jpg",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 2,
+            "file_name": "12.jpg",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 3,
+            "file_name": "28.jpg",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 4,
+            "file_name": "45.jpg",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 5,
+            "file_name": "60.jpg",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 6,
+            "file_name": "66.jpg",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 7,
+            "file_name": "67.jpg",
+            "width": 1024,
+            "height": 1024
+        },
+        {
+            "id": 8,
+            "file_name": "72.jpg",
+            "width": 1024,
+            "height": 1024
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "category_id": 0,
+            "bbox": [
+                487,
+                487,
+                50,
+                50
+            ],
+            "area": 2500,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "damage",
+            "supercategory": "auto"
+        }
+    ]
+}
